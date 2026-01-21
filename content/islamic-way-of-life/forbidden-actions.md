@@ -3,7 +3,7 @@
 - Drive people into exile
 - Strip others of safety, property or dignity
 - Be ungrateful
-- Eating carrion, [[Judaism and Christianity in the Quran|pork]], blood and what is slaughtered in the name of any other than Allah
+- Eating carrion, pork, blood and what is slaughtered in the name of any other than Allah
 - Alcohol
 - Gambling
 - Intercourse while woman is on her period
