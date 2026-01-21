@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Quranic Studies</title>
+  <link rel="stylesheet" href="assets/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div>
+          <h1 id="brandTitle">Quranic Studies</h1>
+          <p id="brandSub">Loading…</p>
+        </div>
+      </div>
+
+      <div class="search">
+        <input id="searchInput" placeholder="Search notes…" autocomplete="off"/>
+      </div>
+
+      <nav class="nav">
+        <div>
+          <h2>Categories</h2>
+          <div id="catList"></div>
+        </div>
+      </nav>
+    </aside>
+
+    <main class="main" id="main">
+      <div class="card">
+        <p class="breadcrumbs">Home</p>
+        <h1 class="title">Loading…</h1>
+      </div>
+    </main>
+  </div>
+
+  <script src="assets/app.js"></script>
+  <script>QS_APP.initHome();</script>
+</body>
+</html>
