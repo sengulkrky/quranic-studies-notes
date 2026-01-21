@@ -13,8 +13,8 @@ Whatever good you send forth for yourselves, you will ˹certainly˺ find ˹its r
 - Speak kindly to people
 - Remember god and he will remember you
 - Be grateful to Allah for what he has given you
-- [[Ramadan|Fasting]]
-- [[Pilgrimage|Pilgrimage]]
+- Fast
+- Pilgrimage if you can afford it
 - Kind words and forgiveness
 
 #### Righteousness according to 2:177
