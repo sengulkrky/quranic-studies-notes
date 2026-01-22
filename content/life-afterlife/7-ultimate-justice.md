@@ -1,3 +1,0 @@
-```
-Be mindful of the Day when you will ˹all˺ be returned to Allah, then every soul will be paid in full for what it has done, and none will be wronged. (2:281)
-```

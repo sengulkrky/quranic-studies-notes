@@ -1,60 +1,33 @@
 {
-  "generatedAt": "2026-01-22T21:03:53.408740Z",
+  "generatedAt": "2026-01-22T22:10:00.223380Z",
   "title": "Quranic Studies",
   "notes": [
     {
-      "id": "104e00f24b",
-      "title": "attributes-of-action",
+      "id": "5ffe2c9c42",
+      "title": "Attributes of action",
       "category": "Allah",
       "categorySlug": "allah",
-      "sourceRelPath": "content/allah/attributes-of-action.md",
-      "contentPath": "content/allah/attributes-of-action.md",
+      "sourceRelPath": "content/allah/Attributes of action.md",
+      "contentPath": "content/allah/Attributes of action.md",
       "excerpt": "The mercy of Allah Repentance (tawbah) in Islam is not just feeling regret. It means: - Recognizing the wrongdoing - Feeling sincere remorse - Turning back to God - Making a firm intention not to repeat it No sin permanently closes the door to God. Repentance must be backed by ac"
     },
     {
-      "id": "4313a9f0c8",
-      "title": "attributes-of-essence",
+      "id": "56f6b61968",
+      "title": "Attributes of essence",
       "category": "Allah",
       "categorySlug": "allah",
-      "sourceRelPath": "content/allah/attributes-of-essence.md",
-      "contentPath": "content/allah/attributes-of-essence.md",
+      "sourceRelPath": "content/allah/Attributes of essence.md",
+      "contentPath": "content/allah/Attributes of essence.md",
       "excerpt": "1. Lord of all worlds 2. Master of the day of judgment 3. Allah has no offspring 4. Creator of the heavens and the earth 5. The ever-living 6. All-sustaining 7. Neither drowsiness nor sleep overtakes him 8."
     },
     {
-      "id": "d5d213bfa2",
-      "title": "names-of-allah",
+      "id": "5f3c6342f5",
+      "title": "Names of Allah",
       "category": "Allah",
       "categorySlug": "allah",
-      "sourceRelPath": "content/allah/names-of-allah.md",
-      "contentPath": "content/allah/names-of-allah.md",
+      "sourceRelPath": "content/allah/Names of Allah.md",
+      "contentPath": "content/allah/Names of Allah.md",
       "excerpt": "In the Name of Allah—the Most Compassionate, Most Merciful Names of Allah 1. Most compassionate 2. Most merciful 3. Most capable of everything 4. All-knowing 5. All-Wise 6. Accepter of repentance 7. All-seeing 8. All-encompassing 9. All-Hearing 10. All-forgiving 11."
-    },
-    {
-      "id": "3ecd77e94f",
-      "title": "quranic-descriptions-of-allah",
-      "category": "Allah",
-      "categorySlug": "allah",
-      "sourceRelPath": "content/allah/quranic-descriptions-of-allah.md",
-      "contentPath": "content/allah/quranic-descriptions-of-allah.md",
-      "excerpt": ""
-    },
-    {
-      "id": "5c22549ebe",
-      "title": "tawhid",
-      "category": "Allah",
-      "categorySlug": "allah",
-      "sourceRelPath": "content/allah/tawhid.md",
-      "contentPath": "content/allah/tawhid.md",
-      "excerpt": ""
-    },
-    {
-      "id": "fb72e20434",
-      "title": "daily-worship",
-      "category": "Islamic Way Of Life",
-      "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/daily-worship.md",
-      "contentPath": "content/islamic-way-of-life/daily-worship.md",
-      "excerpt": ""
     },
     {
       "id": "e43b6e1eab",
@@ -84,33 +57,6 @@
       "excerpt": "- Believe in Allah, the angels and the day of judgment (the unseen) - Establish prayer - Donate from what god has provided for us - Believe in the hereafter - Pay zakah (alms-tax) - Spend wealth in charity (publicly is good, private is better) - Seek help and comfort through pati"
     },
     {
-      "id": "52c2e31ea3",
-      "title": "marriage",
-      "category": "Islamic Way Of Life",
-      "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/marriage.md",
-      "contentPath": "content/islamic-way-of-life/marriage.md",
-      "excerpt": "2:221 2:226"
-    },
-    {
-      "id": "c54997d7e0",
-      "title": "pilgrimage",
-      "category": "Islamic Way Of Life",
-      "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/pilgrimage.md",
-      "contentPath": "content/islamic-way-of-life/pilgrimage.md",
-      "excerpt": ""
-    },
-    {
-      "id": "cc94edb049",
-      "title": "prayer",
-      "category": "Islamic Way Of Life",
-      "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/prayer.md",
-      "contentPath": "content/islamic-way-of-life/prayer.md",
-      "excerpt": "2:238"
-    },
-    {
       "id": "423053d428",
       "title": "ramadan",
       "category": "Islamic Way Of Life",
@@ -120,148 +66,121 @@
       "excerpt": "Ramadan is the month in which the Quran was revealed as a guide for humanity. Fasting"
     },
     {
-      "id": "7bede2076f",
-      "title": "1-adam-and-eve",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/1-adam-and-eve.md",
-      "contentPath": "content/life-afterlife/1-adam-and-eve.md",
+      "id": "9f0782a5a9",
+      "title": "1-Adam and Eve",
+      "category": "Life And Afterlife",
+      "categorySlug": "life-and-afterlife",
+      "sourceRelPath": "content/life-and-afterlife/1-Adam and Eve.md",
+      "contentPath": "content/life-and-afterlife/1-Adam and Eve.md",
       "excerpt": "The concept of original sin in the bible Adam and Eve disobeyed God by eating from the tree of knowledge of good and evil. This act introduced sin, death and seperation between God and humanity. Original sin does not mean that people are personally guilty of Adam and Eve's act. I"
     },
     {
-      "id": "35e0cf12d9",
-      "title": "2-birth-and-creation",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/2-birth-and-creation.md",
-      "contentPath": "content/life-afterlife/2-birth-and-creation.md",
+      "id": "055abd7211",
+      "title": "2-Birth and Creation",
+      "category": "Life And Afterlife",
+      "categorySlug": "life-and-afterlife",
+      "sourceRelPath": "content/life-and-afterlife/2-Birth and Creation.md",
+      "contentPath": "content/life-and-afterlife/2-Birth and Creation.md",
       "excerpt": ""
     },
     {
-      "id": "ddf24319d7",
-      "title": "3-life",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/3-life.md",
-      "contentPath": "content/life-afterlife/3-life.md",
+      "id": "8dcf3e1d12",
+      "title": "3-Life",
+      "category": "Life And Afterlife",
+      "categorySlug": "life-and-afterlife",
+      "sourceRelPath": "content/life-and-afterlife/3-Life.md",
+      "contentPath": "content/life-and-afterlife/3-Life.md",
       "excerpt": ""
     },
     {
-      "id": "eb28400490",
-      "title": "4-death",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/4-death.md",
-      "contentPath": "content/life-afterlife/4-death.md",
+      "id": "bd99823c42",
+      "title": "4-Death",
+      "category": "Life And Afterlife",
+      "categorySlug": "life-and-afterlife",
+      "sourceRelPath": "content/life-and-afterlife/4-Death.md",
+      "contentPath": "content/life-and-afterlife/4-Death.md",
       "excerpt": ""
     },
     {
-      "id": "9cb28d70de",
-      "title": "5-day-of-judgment",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/5-day-of-judgment.md",
-      "contentPath": "content/life-afterlife/5-day-of-judgment.md",
+      "id": "58b73d37d1",
+      "title": "5-Day of Judgment",
+      "category": "Life And Afterlife",
+      "categorySlug": "life-and-afterlife",
+      "sourceRelPath": "content/life-and-afterlife/5-Day of Judgment.md",
+      "contentPath": "content/life-and-afterlife/5-Day of Judgment.md",
       "excerpt": "- No soul will be of any help to another - No ransom will be taken, no intercession accepted and no help will be given"
     },
     {
-      "id": "1a318b1738",
-      "title": "6-hereafter",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/6-hereafter.md",
-      "contentPath": "content/life-afterlife/6-hereafter.md",
+      "id": "d7dccdc9f3",
+      "title": "6-Hereafter",
+      "category": "Life And Afterlife",
+      "categorySlug": "life-and-afterlife",
+      "sourceRelPath": "content/life-and-afterlife/6-Hereafter.md",
+      "contentPath": "content/life-and-afterlife/6-Hereafter.md",
       "excerpt": ""
     },
     {
-      "id": "e2f28f11da",
-      "title": "7-ultimate-justice",
-      "category": "Life Afterlife",
-      "categorySlug": "life-afterlife",
-      "sourceRelPath": "content/life-afterlife/7-ultimate-justice.md",
-      "contentPath": "content/life-afterlife/7-ultimate-justice.md",
-      "excerpt": ""
-    },
-    {
-      "id": "838ffe5254",
-      "title": "extremism",
+      "id": "181d7930ce",
+      "title": "Extremism",
       "category": "Misconceptions",
       "categorySlug": "misconceptions",
-      "sourceRelPath": "content/misconceptions/extremism.md",
-      "contentPath": "content/misconceptions/extremism.md",
+      "sourceRelPath": "content/misconceptions/Extremism.md",
+      "contentPath": "content/misconceptions/Extremism.md",
       "excerpt": ""
     },
     {
-      "id": "07a2defbab",
-      "title": "homosexuality",
+      "id": "a27f4aa5fb",
+      "title": "Homosexuality",
       "category": "Misconceptions",
       "categorySlug": "misconceptions",
-      "sourceRelPath": "content/misconceptions/homosexuality.md",
-      "contentPath": "content/misconceptions/homosexuality.md",
+      "sourceRelPath": "content/misconceptions/Homosexuality.md",
+      "contentPath": "content/misconceptions/Homosexuality.md",
       "excerpt": ""
     },
     {
-      "id": "0b1dff1e62",
-      "title": "slavery",
+      "id": "0c3184f2a0",
+      "title": "Slavery",
       "category": "Misconceptions",
       "categorySlug": "misconceptions",
-      "sourceRelPath": "content/misconceptions/slavery.md",
-      "contentPath": "content/misconceptions/slavery.md",
+      "sourceRelPath": "content/misconceptions/Slavery.md",
+      "contentPath": "content/misconceptions/Slavery.md",
       "excerpt": "The Quran mentions slaves frequently, but the context and purpose are very important to understand. It's not because Islam glorifies slavery, it's because slavery already existed in 7th-century Arabia, and the Quran gradually regulated it and encouraged emancipation. Historical c"
     },
     {
-      "id": "4131d13c97",
-      "title": "violence",
+      "id": "99b109b7bd",
+      "title": "Violence",
       "category": "Misconceptions",
       "categorySlug": "misconceptions",
-      "sourceRelPath": "content/misconceptions/violence.md",
-      "contentPath": "content/misconceptions/violence.md",
+      "sourceRelPath": "content/misconceptions/Violence.md",
+      "contentPath": "content/misconceptions/Violence.md",
       "excerpt": "Islam is often misunderstood as promoting violence, when in fact the Quran's teaching is much more nuanced. What the Quran really says about violence 1. Fighting is only permitted in defense, not as a first resort 2. Human life is highly valued and murder is strictly forbidden 3."
     },
     {
-      "id": "7e8819b32b",
-      "title": "women",
+      "id": "dd427fbc7a",
+      "title": "Women",
       "category": "Misconceptions",
       "categorySlug": "misconceptions",
-      "sourceRelPath": "content/misconceptions/women.md",
-      "contentPath": "content/misconceptions/women.md",
+      "sourceRelPath": "content/misconceptions/Women.md",
+      "contentPath": "content/misconceptions/Women.md",
       "excerpt": ""
     },
     {
-      "id": "23bb1822a7",
-      "title": "alif-lm-mm",
-      "category": "Mysteries",
-      "categorySlug": "mysteries",
-      "sourceRelPath": "content/mysteries/alif-lm-mm.md",
-      "contentPath": "content/mysteries/alif-lm-mm.md",
-      "excerpt": ""
-    },
-    {
-      "id": "108d2e9454",
-      "title": "judaism-and-christianity-in-the-quran",
+      "id": "8835de1d3a",
+      "title": "From the Old Testament to Christianity as we know it today",
       "category": "People Of The Book",
       "categorySlug": "people-of-the-book",
-      "sourceRelPath": "content/people-of-the-book/judaism-and-christianity-in-the-quran.md",
-      "contentPath": "content/people-of-the-book/judaism-and-christianity-in-the-quran.md",
+      "sourceRelPath": "content/people-of-the-book/From the Old Testament to Christianity as we know it today.md",
+      "contentPath": "content/people-of-the-book/From the Old Testament to Christianity as we know it today.md",
+      "excerpt": "The Old Testament and prophetic religion The Old Testament represents a long prophetic tradition centered on strict monotheism. God is one, transcedent and separate from creation. Prophets are human messengers chosen to guide their people, not divine beings. The purpose of revela"
+    },
+    {
+      "id": "bf523e58fe",
+      "title": "Judaism and Christianity in the Quran",
+      "category": "People Of The Book",
+      "categorySlug": "people-of-the-book",
+      "sourceRelPath": "content/people-of-the-book/Judaism and Christianity in the Quran.md",
+      "contentPath": "content/people-of-the-book/Judaism and Christianity in the Quran.md",
       "excerpt": "The following verse: - Confirms the core truths found in earlier revelations (the Torah and other scriptures originally given by god) - It does not abolish their true message (belief in one god, moral law, prophets) - Muhammad's message is presented as a continuation, not a contr"
-    },
-    {
-      "id": "9d5643ebd6",
-      "title": "non-believers",
-      "category": "People Of The Book",
-      "categorySlug": "people-of-the-book",
-      "sourceRelPath": "content/people-of-the-book/non-believers.md",
-      "contentPath": "content/people-of-the-book/non-believers.md",
-      "excerpt": ""
-    },
-    {
-      "id": "3c425a2165",
-      "title": "points-of-divergence",
-      "category": "People Of The Book",
-      "categorySlug": "people-of-the-book",
-      "sourceRelPath": "content/people-of-the-book/points-of-divergence.md",
-      "contentPath": "content/people-of-the-book/points-of-divergence.md",
-      "excerpt": ""
     },
     {
       "id": "903a1bb524",
@@ -273,165 +192,30 @@
       "excerpt": "Jesus and the earliest Christians Historically Jesus lived and taught as a Jewish preacher within the framework of strict monotheism. He spoke to Jews, used Jewish scripture and referred constantly to the one God of Abraham. He prayed to God, submitted to God's will and distingui"
     },
     {
-      "id": "d5e3af7b5d",
-      "title": "forgiveness-and-mercy",
+      "id": "9b9d929a39",
+      "title": "The law of retaliation",
       "category": "Practice Ethics",
       "categorySlug": "practice-ethics",
-      "sourceRelPath": "content/practice-ethics/forgiveness-and-mercy.md",
-      "contentPath": "content/practice-ethics/forgiveness-and-mercy.md",
-      "excerpt": ""
-    },
-    {
-      "id": "df47b0bcbe",
-      "title": "justice",
-      "category": "Practice Ethics",
-      "categorySlug": "practice-ethics",
-      "sourceRelPath": "content/practice-ethics/justice.md",
-      "contentPath": "content/practice-ethics/justice.md",
-      "excerpt": ""
-    },
-    {
-      "id": "24dd92beea",
-      "title": "the-law-of-retaliation",
-      "category": "Practice Ethics",
-      "categorySlug": "practice-ethics",
-      "sourceRelPath": "content/practice-ethics/the-law-of-retaliation.md",
-      "contentPath": "content/practice-ethics/the-law-of-retaliation.md",
+      "sourceRelPath": "content/practice-ethics/The law of retaliation.md",
+      "contentPath": "content/practice-ethics/The law of retaliation.md",
       "excerpt": "The law of retaliation in the Qur’an is known as “Qisas” (قصاص) . It is a principle of justice in criminal cases , particularly involving intentional murder or bodily harm . The idea is often summarized as “an eye for an eye” , but in the Qur’an it is more nuanced and balanced by"
-    },
-    {
-      "id": "f4f27484b9",
-      "title": "abraham",
-      "category": "Prophets",
-      "categorySlug": "prophets",
-      "sourceRelPath": "content/prophets/abraham.md",
-      "contentPath": "content/prophets/abraham.md",
-      "excerpt": ""
-    },
-    {
-      "id": "cbeed11cfa",
-      "title": "jesus",
-      "category": "Prophets",
-      "categorySlug": "prophets",
-      "sourceRelPath": "content/prophets/jesus.md",
-      "contentPath": "content/prophets/jesus.md",
-      "excerpt": ""
-    },
-    {
-      "id": "3653333933",
-      "title": "moses",
-      "category": "Prophets",
-      "categorySlug": "prophets",
-      "sourceRelPath": "content/prophets/moses.md",
-      "contentPath": "content/prophets/moses.md",
-      "excerpt": ""
-    },
-    {
-      "id": "0710432ca4",
-      "title": "muhammad",
-      "category": "Prophets",
-      "categorySlug": "prophets",
-      "sourceRelPath": "content/prophets/muhammad.md",
-      "contentPath": "content/prophets/muhammad.md",
-      "excerpt": ""
-    },
-    {
-      "id": "cc113a3f86",
-      "title": "having-doubts-about-the-religion",
-      "category": "The Quran",
-      "categorySlug": "the-quran",
-      "sourceRelPath": "content/the-quran/having-doubts-about-the-religion.md",
-      "contentPath": "content/the-quran/having-doubts-about-the-religion.md",
-      "excerpt": "In multiple verses in the Quran, Allah challenges the disbelievers to produce something like the Quran if they are in doubt."
-    },
-    {
-      "id": "5e5002ee56",
-      "title": "purpose",
-      "category": "The Quran",
-      "categorySlug": "the-quran",
-      "sourceRelPath": "content/the-quran/purpose.md",
-      "contentPath": "content/the-quran/purpose.md",
-      "excerpt": ""
-    },
-    {
-      "id": "2da63002dd",
-      "title": "revelation",
-      "category": "The Quran",
-      "categorySlug": "the-quran",
-      "sourceRelPath": "content/the-quran/revelation.md",
-      "contentPath": "content/the-quran/revelation.md",
-      "excerpt": ""
-    },
-    {
-      "id": "59cb49ecc9",
-      "title": "what-the-quran-really-is",
-      "category": "The Quran",
-      "categorySlug": "the-quran",
-      "sourceRelPath": "content/the-quran/what-the-quran-really-is.md",
-      "contentPath": "content/the-quran/what-the-quran-really-is.md",
-      "excerpt": "A guide The following verses tell us exactly what the Quran is: - A guide and good news for the believers - Confirms what came before -"
-    },
-    {
-      "id": "4035de5167",
-      "title": "angels",
-      "category": "The Unseen",
-      "categorySlug": "the-unseen",
-      "sourceRelPath": "content/the-unseen/angels.md",
-      "contentPath": "content/the-unseen/angels.md",
-      "excerpt": "Gabriel Gabriel is \"the holy spirit\", whose main duty is to communicate Allah's messages to prophets."
-    },
-    {
-      "id": "b5504d415c",
-      "title": "heaven",
-      "category": "The Unseen",
-      "categorySlug": "the-unseen",
-      "sourceRelPath": "content/the-unseen/heaven.md",
-      "contentPath": "content/the-unseen/heaven.md",
-      "excerpt": ""
-    },
-    {
-      "id": "92a6b367f4",
-      "title": "hell",
-      "category": "The Unseen",
-      "categorySlug": "the-unseen",
-      "sourceRelPath": "content/the-unseen/hell.md",
-      "contentPath": "content/the-unseen/hell.md",
-      "excerpt": ""
-    },
-    {
-      "id": "144a82adea",
-      "title": "iblis",
-      "category": "The Unseen",
-      "categorySlug": "the-unseen",
-      "sourceRelPath": "content/the-unseen/iblis.md",
-      "contentPath": "content/the-unseen/iblis.md",
-      "excerpt": "The command to prostate was a test of obedience. Satan refused to prostate because he believed he was superior to Adam:"
-    },
-    {
-      "id": "03d5fbc3da",
-      "title": "jinn",
-      "category": "The Unseen",
-      "categorySlug": "the-unseen",
-      "sourceRelPath": "content/the-unseen/jinn.md",
-      "contentPath": "content/the-unseen/jinn.md",
-      "excerpt": ""
     }
   ],
   "categories": [
     {
       "name": "Allah",
       "slug": "allah",
-      "count": 5
+      "count": 3
     },
     {
       "name": "Islamic Way Of Life",
       "slug": "islamic-way-of-life",
-      "count": 8
+      "count": 4
     },
     {
-      "name": "Life Afterlife",
-      "slug": "life-afterlife",
-      "count": 7
+      "name": "Life And Afterlife",
+      "slug": "life-and-afterlife",
+      "count": 6
     },
     {
       "name": "Misconceptions",
@@ -439,34 +223,14 @@
       "count": 5
     },
     {
-      "name": "Mysteries",
-      "slug": "mysteries",
-      "count": 1
-    },
-    {
       "name": "People Of The Book",
       "slug": "people-of-the-book",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Practice Ethics",
       "slug": "practice-ethics",
-      "count": 3
-    },
-    {
-      "name": "Prophets",
-      "slug": "prophets",
-      "count": 4
-    },
-    {
-      "name": "The Quran",
-      "slug": "the-quran",
-      "count": 4
-    },
-    {
-      "name": "The Unseen",
-      "slug": "the-unseen",
-      "count": 5
+      "count": 1
     }
   ]
 }
