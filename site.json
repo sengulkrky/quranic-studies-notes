@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T22:10:00.223380Z",
+  "generatedAt": "2026-01-23T01:24:42.870173Z",
   "title": "Quranic Studies",
   "notes": [
     {
@@ -30,40 +30,76 @@
       "excerpt": "In the Name of Allah—the Most Compassionate, Most Merciful Names of Allah 1. Most compassionate 2. Most merciful 3. Most capable of everything 4. All-knowing 5. All-Wise 6. Accepter of repentance 7. All-seeing 8. All-encompassing 9. All-Hearing 10. All-forgiving 11."
     },
     {
-      "id": "e43b6e1eab",
-      "title": "divorce",
+      "id": "5b975c6f1d",
+      "title": "Belief, Faith and Authority",
+      "category": "Christianity",
+      "categorySlug": "christianity",
+      "sourceRelPath": "content/christianity/Belief, Faith and Authority.md",
+      "contentPath": "content/christianity/Belief, Faith and Authority.md",
+      "excerpt": "Belief is unavoidable in any religion All religions depend on believing in something you cannot see. That is not a weakness — it is the definition of belief. If God were 100% provable in a scientific way, belief would no longer be a choice. Everyone would believe automatically, a"
+    },
+    {
+      "id": "1d95622786",
+      "title": "From the Old Testament to Christianity as we know it today",
+      "category": "Christianity",
+      "categorySlug": "christianity",
+      "sourceRelPath": "content/christianity/From the Old Testament to Christianity as we know it today.md",
+      "contentPath": "content/christianity/From the Old Testament to Christianity as we know it today.md",
+      "excerpt": "The Old Testament and prophetic religion The Old Testament represents a long prophetic tradition centered on strict monotheism. God is one, transcedent and separate from creation. Prophets are human messengers chosen to guide their people, not divine beings. The purpose of revela"
+    },
+    {
+      "id": "f1b3810aa4",
+      "title": "Questions for Christians",
+      "category": "Christianity",
+      "categorySlug": "christianity",
+      "sourceRelPath": "content/christianity/Questions for Christians.md",
+      "contentPath": "content/christianity/Questions for Christians.md",
+      "excerpt": "Jesus and authority - Can you show me where Jesus explicitly says he is God, in clear and unambiguous words, rather than through later interpretation? - If Jesus never wrote a book and never explained complex doctrines like the Trinity, how do we know later interpretations accura"
+    },
+    {
+      "id": "0955d15fc0",
+      "title": "The Council of Nicaea",
+      "category": "Christianity",
+      "categorySlug": "christianity",
+      "sourceRelPath": "content/christianity/The Council of Nicaea.md",
+      "contentPath": "content/christianity/The Council of Nicaea.md",
+      "excerpt": "Jesus and the earliest Christians Historically Jesus lived and taught as a Jewish preacher within the framework of strict monotheism. He spoke to Jews, used Jewish scripture and referred constantly to the one God of Abraham. He prayed to God, submitted to God's will and distingui"
+    },
+    {
+      "id": "4561526306",
+      "title": "What I think about Christianity",
+      "category": "Christianity",
+      "categorySlug": "christianity",
+      "sourceRelPath": "content/christianity/What I think about Christianity.md",
+      "contentPath": "content/christianity/What I think about Christianity.md",
+      "excerpt": "My view is that belief in God and revelation should be grounded in clear guidance from God , not in layers of later human interpretation that become “truth” mainly because institutions declared them so. I don’t reject Jesus, on the contrary, I respect him deeply and I believe God"
+    },
+    {
+      "id": "ff027c45ee",
+      "title": "Divorce",
       "category": "Islamic Way Of Life",
       "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/divorce.md",
-      "contentPath": "content/islamic-way-of-life/divorce.md",
+      "sourceRelPath": "content/islamic-way-of-life/Divorce.md",
+      "contentPath": "content/islamic-way-of-life/Divorce.md",
       "excerpt": "Allah sets clear ethical boundaries to protect both spouses. Crossing these boundaries for example mistreating the wife, reclaiming dowry unfairly or abusing divorce is considered sinful and unjust. Iddah period The iddah period is a waiting time for a woman after divorce before "
     },
     {
-      "id": "f8ae6ad0e1",
-      "title": "forbidden-actions",
+      "id": "e50a735dae",
+      "title": "Forbidden actions",
       "category": "Islamic Way Of Life",
       "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/forbidden-actions.md",
-      "contentPath": "content/islamic-way-of-life/forbidden-actions.md",
+      "sourceRelPath": "content/islamic-way-of-life/Forbidden actions.md",
+      "contentPath": "content/islamic-way-of-life/Forbidden actions.md",
       "excerpt": "- Set up equals to god - Kill or harm one another - Drive people into exile - Strip others of safety, property or dignity - Be ungrateful - Eating carrion, pork, blood and what is slaughtered in the name of any other than Allah - Alcohol - Gambling - Intercourse while woman is on"
     },
     {
-      "id": "0711289c1c",
-      "title": "good-actions",
+      "id": "b3378cf182",
+      "title": "Good actions",
       "category": "Islamic Way Of Life",
       "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/good-actions.md",
-      "contentPath": "content/islamic-way-of-life/good-actions.md",
+      "sourceRelPath": "content/islamic-way-of-life/Good actions.md",
+      "contentPath": "content/islamic-way-of-life/Good actions.md",
       "excerpt": "- Believe in Allah, the angels and the day of judgment (the unseen) - Establish prayer - Donate from what god has provided for us - Believe in the hereafter - Pay zakah (alms-tax) - Spend wealth in charity (publicly is good, private is better) - Seek help and comfort through pati"
-    },
-    {
-      "id": "423053d428",
-      "title": "ramadan",
-      "category": "Islamic Way Of Life",
-      "categorySlug": "islamic-way-of-life",
-      "sourceRelPath": "content/islamic-way-of-life/ramadan.md",
-      "contentPath": "content/islamic-way-of-life/ramadan.md",
-      "excerpt": "Ramadan is the month in which the Quran was revealed as a guide for humanity. Fasting"
     },
     {
       "id": "9f0782a5a9",
@@ -165,33 +201,6 @@
       "excerpt": ""
     },
     {
-      "id": "8835de1d3a",
-      "title": "From the Old Testament to Christianity as we know it today",
-      "category": "People Of The Book",
-      "categorySlug": "people-of-the-book",
-      "sourceRelPath": "content/people-of-the-book/From the Old Testament to Christianity as we know it today.md",
-      "contentPath": "content/people-of-the-book/From the Old Testament to Christianity as we know it today.md",
-      "excerpt": "The Old Testament and prophetic religion The Old Testament represents a long prophetic tradition centered on strict monotheism. God is one, transcedent and separate from creation. Prophets are human messengers chosen to guide their people, not divine beings. The purpose of revela"
-    },
-    {
-      "id": "bf523e58fe",
-      "title": "Judaism and Christianity in the Quran",
-      "category": "People Of The Book",
-      "categorySlug": "people-of-the-book",
-      "sourceRelPath": "content/people-of-the-book/Judaism and Christianity in the Quran.md",
-      "contentPath": "content/people-of-the-book/Judaism and Christianity in the Quran.md",
-      "excerpt": "The following verse: - Confirms the core truths found in earlier revelations (the Torah and other scriptures originally given by god) - It does not abolish their true message (belief in one god, moral law, prophets) - Muhammad's message is presented as a continuation, not a contr"
-    },
-    {
-      "id": "903a1bb524",
-      "title": "The Council of Nicaea",
-      "category": "People Of The Book",
-      "categorySlug": "people-of-the-book",
-      "sourceRelPath": "content/people-of-the-book/The Council of Nicaea.md",
-      "contentPath": "content/people-of-the-book/The Council of Nicaea.md",
-      "excerpt": "Jesus and the earliest Christians Historically Jesus lived and taught as a Jewish preacher within the framework of strict monotheism. He spoke to Jews, used Jewish scripture and referred constantly to the one God of Abraham. He prayed to God, submitted to God's will and distingui"
-    },
-    {
       "id": "9b9d929a39",
       "title": "The law of retaliation",
       "category": "Practice Ethics",
@@ -199,6 +208,33 @@
       "sourceRelPath": "content/practice-ethics/The law of retaliation.md",
       "contentPath": "content/practice-ethics/The law of retaliation.md",
       "excerpt": "The law of retaliation in the Qur’an is known as “Qisas” (قصاص) . It is a principle of justice in criminal cases , particularly involving intentional murder or bodily harm . The idea is often summarized as “an eye for an eye” , but in the Qur’an it is more nuanced and balanced by"
+    },
+    {
+      "id": "e968d14e21",
+      "title": "Why belief in God and creation makes more sense",
+      "category": "Why",
+      "categorySlug": "why",
+      "sourceRelPath": "content/why/Why belief in God and creation makes more sense.md",
+      "contentPath": "content/why/Why belief in God and creation makes more sense.md",
+      "excerpt": "The question behind all questions Every worldview, whether religious or not, must eventually answer one fundamental question: why is there something rather than nothing? This question cannot be avoided. Saying \"the universe exists\" is not an explanation, it's a description. The r"
+    },
+    {
+      "id": "a23c9d939a",
+      "title": "Why belief in God is not blind faith",
+      "category": "Why",
+      "categorySlug": "why",
+      "sourceRelPath": "content/why/Why belief in God is not blind faith.md",
+      "contentPath": "content/why/Why belief in God is not blind faith.md",
+      "excerpt": "What “blind faith” actually means Blind faith means believing something without reason, without reflection, or despite evidence to the contrary. It is belief based purely on emotion, tradition, or authority, where questioning is discouraged and doubt is seen as a threat. The Qura"
+    },
+    {
+      "id": "505ed47b23",
+      "title": "Why God created us",
+      "category": "Why",
+      "categorySlug": "why",
+      "sourceRelPath": "content/why/Why God created us.md",
+      "contentPath": "content/why/Why God created us.md",
+      "excerpt": "Human existence and the question of meaning The question “Why did God create us?” already assumes that existence is not meaningless. Humans are not satisfied with merely surviving; they ask why they exist, why morality matters, why suffering feels unjust, and why death feels unfi"
     }
   ],
   "categories": [
@@ -208,9 +244,14 @@
       "count": 3
     },
     {
+      "name": "Christianity",
+      "slug": "christianity",
+      "count": 5
+    },
+    {
       "name": "Islamic Way Of Life",
       "slug": "islamic-way-of-life",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Life And Afterlife",
@@ -223,14 +264,14 @@
       "count": 5
     },
     {
-      "name": "People Of The Book",
-      "slug": "people-of-the-book",
-      "count": 3
-    },
-    {
       "name": "Practice Ethics",
       "slug": "practice-ethics",
       "count": 1
+    },
+    {
+      "name": "Why",
+      "slug": "why",
+      "count": 3
     }
   ]
 }
